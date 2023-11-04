@@ -1,0 +1,106 @@
+header{
+  background-color: dimgrey;
+  border: solid 2px;
+}
+header h3{
+  font-family: Arial, Helvetica, sans-serif;
+  color: antiquewhite;
+  margin-left: 4.3%;
+  text-align: center;
+  display: inline-block;
+}
+header a{
+  color: white;
+  text-decoration: none;
+}
+body{
+  background-color: white;
+}
+
+.caja1{
+    background-color: dimgray;
+    width: 350px;
+    height: 620px;
+    border-color: black;
+    border-style:solid;
+    float: left;
+    margin: 10px;
+    padding: 0.5cm;
+    overflow: hidden;
+
+}
+.caja1 p{
+    text-align: justify;
+    font-size: 0.66cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.caja1 img{
+    width: 150;
+    height: 250px;
+    margin: center;
+}
+.caja2{
+    background-color: dimgray;
+    width: 350px;
+    height: 700px;
+    border-color: black;
+    border-style:solid;
+    display: inline-block;
+    padding: 0.5cm;
+    margin: 0.3cm;
+   margin-left: 45px;
+
+}
+.caja2 li{
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.caja2 img{
+    width: 150;
+    height: 250px;
+    margin: center;
+}
+.caja3{
+  background-color: dimgray;
+  width: 350px;
+  height: 630px;
+  border-color: black;
+  border-style:solid;
+  float: right;
+  padding: 0.5cm;
+  margin: 19px;
+  
+}
+.caja3 li{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  font-size: 19px;
+}
+.caja3 img{
+  width: 150;
+  height: 250px;
+  margin-left: 80px;
+}
+
+.footer{
+  width: 1343px;
+  height: 1cm;
+  margin-left: -8px;
+  margin-block: -8px;
+  background-color: gray;
+  margin-top: 1px;
+  border: solid;
+  float: left;
+}
+
+.footer h3{
+  font-size: 0.7cm;
+}
+
+.footer p{
+  font-size: medium;
+  margin-top: -1cqb;
+  margin-left: 1cqb;
+  font-size: xx-large;
+  float: left;
+}

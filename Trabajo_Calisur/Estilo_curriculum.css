@@ -1,0 +1,89 @@
+header{
+    background-color: dimgrey;
+    border: solid 2px;
+  }
+  
+  header h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    margin-left: 4.3%;
+    text-align: center;
+    display: inline-block;
+    
+  }
+  header a{
+    color: white;
+    text-decoration: none;
+  }
+
+  body{
+    background-color: white;
+  }
+
+.Reubicacion{
+    
+    width: 600px;
+    height: 968px;
+    padding: 8px;
+    margin-left: 39px;
+    float: left;
+}
+
+.Reubicacion h2{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.Reubicacion h3{
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: -5px;
+  border-bottom: 2px solid black;
+  display: inline-block;
+}
+
+.Reubicacion p{
+    font-size: 0.55cm;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    flex-wrap: wrap;
+}
+
+.imagen{
+  display: inline-block;
+  width: 1000px;
+  height: 1800px;
+  
+}
+
+.imagen2{
+  height: 450px;
+  width: 660px;
+  display: flex;
+}
+
+.footer{
+  width: 1343px;
+  height: 1cm;
+  margin-left: -8px;
+  margin-block: -8px;
+  background-color: gray;
+  margin-top: 1px;
+  border: solid;
+  float: left;
+}
+
+.footer h3{
+  font-size: 0.7cm;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  margin-top: -1cqb;
+  margin-left: 1cqb;
+  font-size: xx-large;
+  float: left;
+}

@@ -1,0 +1,114 @@
+header{
+  background-color: dimgrey;
+  border: solid 2px;
+}
+
+header h3{
+        font-family: Arial, Helvetica, sans-serif;
+        color: antiquewhite;
+        margin-left: 4.3%;
+        text-align: center;
+        display: inline-block;
+}
+header a{
+  color: white;
+  text-decoration: none;
+}
+.fondo{
+    background-image:url(Imagenes/Grupo_calisur.png);
+    border-style: hidden;
+    background-repeat: no-repeat;
+    width: 450px;
+    height: 200px;
+    background-size: 100%;   
+}
+
+ 
+p{
+  font-size: 1.1cm;
+  text-align: justify;
+}
+
+body{
+  background-color: white;
+
+}
+.mision{
+  width: 580px;
+  height: 691px;
+  float: left;
+  margin-right: 60px;
+}
+
+.mision h2{
+  font-size: 0.8cm;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 8px;
+  padding: 0.7em;
+}
+.mision p{
+  font-size: 0.7cm;
+  text-align: justify;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-top: 0;
+  padding: 1em;
+}
+
+.slider{
+    
+    width: 47%;
+    height: 690px;
+    overflow: hidden;
+    background-color: dimgray;
+    
+}
+
+.slider ul{
+  display: flex;
+	animation: cambio 60s infinite alternate ease-in-out;
+	padding: 0;
+	width: 530%;
+}
+ 
+.slider li{
+  width: 100%;
+	list-style: none;
+  
+}
+
+.slider img{
+  width: 560px;
+	height: 560px;
+  object-fit: scale-down;
+  
+}
+
+@keyframes cambio{
+	0%{margin-left: 0;}
+	5%{margin-left: 0;}
+
+	10%{margin-left: -100%;}
+	15%{margin-left: -100%;}
+
+	20%{margin-left: -200%;}
+	25%{margin-left: -200%;}
+
+	30%{margin-left: -300%;}
+	35%{margin-left: -300%;}
+
+	40%{margin-left: -400%;}
+	45%{margin-left: -400%;}
+}
+
+.footer{
+  width: 1343px;
+  height: 1cm;
+  margin-left: -8px;
+  margin-block: -8px;
+  background-color: gray;
+  margin-top: 1px;
+  border: solid;
+  float: left;
+}
+

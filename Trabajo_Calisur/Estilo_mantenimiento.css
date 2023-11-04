@@ -1,0 +1,120 @@
+header{
+    background-color: dimgrey;
+    margin: initial;
+    border: solid 2px;
+
+  }
+  
+  header h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    margin-left: 4.3%;
+    text-align: center;
+    display: inline-block;
+  }
+  header a{
+    color: white;
+    text-decoration: none;
+  }
+
+body{
+    background-color: white;
+}
+
+.Dependencias{
+    width: 500px;
+    height: 350px;
+    float: left;
+    margin-top: 20px;
+    border: solid;
+}
+
+.Dependencias h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1cm;
+    text-align: center;
+    
+}
+
+.Dependencias li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.6cm;
+}
+
+.cuadro{
+    display: inline-block;
+    padding: 0%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.seguridad{
+    width: 500px;
+    height: 180px;
+    float: left;
+    margin-top: 60px;
+    border: solid;
+}
+
+.seguridad h2{
+    font-size: 0.7cm;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.seguridad p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 0.6cm;
+}
+
+.cuadro2{
+    display: inline-block;
+    padding: 0%;
+    margin-top: 10px;
+    margin-left: 140px;
+}
+
+.sistemas{
+    width: 500px;
+    height: 150px;
+    float: left;
+    margin-top: 60px;
+    border: solid;
+}
+
+.sistemas h2{
+    font-size: 0.7cm;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.cuadro3{
+    display: inline-block;
+    padding: 0%;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.footer{
+    width: 1343px;
+    height: 2.6.4cm;
+    margin-left: -8px;
+    margin-block: -8px;
+    background-color: gray;
+    margin-top: 1px;
+    border: solid;
+    float: left;
+  }
+  
+  .footer h3{
+    font-size: 0.7cm;
+  }
+  
+  .footer p{
+    font-size: medium;
+    margin-top: -1cqb;
+    margin-left: 1cqb;
+    font-size: xx-large;
+    float: left;
+  }
